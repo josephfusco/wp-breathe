@@ -5,3 +5,25 @@ As a developer, it can sometimes get confusing flipping back and forth between p
 ![demo](https://cloud.githubusercontent.com/assets/6676674/16306084/82afaf78-392a-11e6-85e6-d881b0d81943.gif)
 
 \* Actual animation is much smoother than this .gif
+
+## Usage
+
+Download and activate plugin. No configuration required.
+
+## Animation Requirements
+
++ Must be logged in as admin
++ Cannot be a `.dev` domain (plugin ignores them)
++ Browser must support css animations
+
+### Browser Support
+
+- [x] IE 9+
+- [x] Edge
+- [x] Firefox
+- [x] Chrome
+- [x] Safari
+- [x] Opera
+- [x] iOS Safari
+- [x] Android Browser
+- [x] Chrome for Android
