@@ -18,7 +18,7 @@ Download and activate plugin. No configuration required.
 
 ### Browser Support
 
-- [x] IE 9+
+- [x] IE 10+
 - [x] Edge
 - [x] Firefox
 - [x] Chrome
