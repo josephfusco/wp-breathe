@@ -13,6 +13,28 @@ Easily identify a production site by making it visually breathe for admins.
 
 As a developer, it can sometimes get confusing flipping back and forth between production and development sites. This plugin offers a gentle and anthromorphic reminder that you are logged into a production site while still allowing unobstructive use.
 
+= Usage =
+
+Download and activate plugin. No configuration required.
+
+= Animation Requirements =
+
+* Must be logged in as admin
+* Cannot be a `.dev` domain (plugin ignores them)
+* Browser must support css animations
+
+= Browser Support =
+
+* IE 10+
+* Edge
+* Firefox
+* Chrome
+* Safari
+* Opera
+* iOS Safari
+* Android Browser
+* Chrome for Android
+
 = Contributing =
 
 Contributions are welcome on GitHub. https://github.com/josephfusco/wp-breathe
@@ -24,6 +46,9 @@ Contributions are welcome on GitHub. https://github.com/josephfusco/wp-breathe
 3. If not a .dev site, watch site start to 'breathe'
 
 == Changelog ==
+
+= 1.0.1 =
+* Update readme
 
 = 1.0 =
 * Initial release
