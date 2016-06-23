@@ -11,7 +11,7 @@ Easily identify a production site by making it visually breathe for admins.
 
 == Description ==
 
-As a developer, it can sometimes get confusing flipping back and forth between production and development sites. This plugin offers a gentle and anthromorphic reminder that you are logged into a production site while still allowing unobstructive use.
+As a developer, it can sometimes get confusing flipping back and forth between production and development sites. This plugin offers a gentle and anthropomorphic reminder that you are logged into a production site while still allowing unobstructive use.
 
 = Usage =
 
