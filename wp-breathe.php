@@ -3,7 +3,7 @@
  * Plugin Name:    WP Breathe
  * Plugin URI:     http://github.com/josephfusco/wp-breathe/
  * Description:    Easily identify a production site by literally making it breathe for admins.
- * Version:        1.0
+ * Version:        1.0.1
  * Author:         Joseph Fusco
  * Author URI:     http://josephfus.co/
  * License:        GPLv2 or later
